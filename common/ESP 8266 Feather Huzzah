@@ -1,0 +1,74 @@
+kind: ComponentConfiguration/v1
+metadata:
+  guid: 4065d082-d7cf-4985-93a4-4b8fc3bcbb65
+  name: Untitled Configuration
+  version: 
+  description: 
+template:
+  name: Integrated Circuit 2
+  guid: 2cd49d7c-eb1a-4fe4-9104-c45023e3fc95
+properties:
+- name: Header
+  value: IC
+- name: Size
+  value: 32
+- name: Pin0
+  value: RST
+- name: Pin1
+  value: 'Batt positive '
+- name: Pin2
+  value: 3V
+- name: Pin3
+  value: Batt Negative
+- name: Pin4
+  value: NC
+- name: Pin6
+  value: GND
+- name: Pin8
+  value: ADC
+- name: Pin9
+  value: BAT
+- name: Pin10
+  value: NC
+- name: Pin11
+  value: EN
+- name: Pin12
+  value: NC
+- name: Pin13
+  value: USB
+- name: Pin14
+  value: NC
+- name: Pin15
+  value: 14
+- name: Pin16
+  value: NC
+- name: Pin17
+  value: 12
+- name: Pin18
+  value: NC
+- name: Pin19
+  value: 13
+- name: Pin20
+  value: SCK/14
+- name: Pin21
+  value: 15
+- name: Pin22
+  value: MOSI/13
+- name: Pin23
+  value: 0
+- name: Pin24
+  value: MISO/12
+- name: Pin25
+  value: 16
+- name: Pin26
+  value: RX
+- name: Pin27
+  value: 2
+- name: Pin28
+  value: TX
+- name: Pin29
+  value: SCL/5
+- name: Pin30
+  value: CHPD
+- name: Pin31
+  value: SDA/4
